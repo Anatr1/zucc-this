@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#09186c</color>
+    <color name="colorPrimaryDark">#031192</color>
+    <color name="colorAccent">#62c71e</color>
+    <color name="DeepBlue01">#00083e</color>
+    <color name="CryptBackground">#353e6a</color>
+    <color name="CryptBackGround">#252e55</color>
+</resources>
